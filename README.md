@@ -15,6 +15,9 @@ sudo tee /etc/docker/daemon.json <<-'EOF'
 EOF
 sudo systemctl daemon-reload
 sudo systemctl restart docker
+
+# check the current registry-mirrors
+docker info | grep -A 2 Mirrors
 ```
 - This is a container environment, on your ECS server you need to install
 
@@ -29,5 +32,5 @@ sudo systemctl restart docker
    sudo apt install docker-compose -y
    ```
 
-   
+
 

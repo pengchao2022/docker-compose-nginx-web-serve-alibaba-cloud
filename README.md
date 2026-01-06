@@ -4,9 +4,7 @@ In this tutorial, I will use a standalone alibaba ECS server to deploy a website
 
 ## Usage
 
-- As we know, docker hub was block in China, so I need to configure Docker Hub image 
-
-  accelerator on my ECS server.
+- As we know, docker hub was blocked in China, so I need to configure Docker Hub image accelerator on my ECS server.
   
 ```shell
 sudo mkdir -p /etc/docker

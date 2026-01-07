@@ -1,6 +1,6 @@
 # Docker-compose-web-server-alibaba-cloud
 
-In this tutorial, I will use a standalone alibaba ECS server to deploy a website including nginx, frontend, backend, database and SSL CA service.
+In this Devops demo, I will use a standalone alibaba ECS server to deploy a website including nginx, frontend, backend, database and SSL CA service.
 
 ## Project-Architecture
 

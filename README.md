@@ -103,7 +103,7 @@ DONE
 
 ## Website Home page
 
-- This is the website home page and has SSL encription
+- This is the website home page and has SSL encryption
 
 ![home_page](./home_page.png)
 
